@@ -1,0 +1,36 @@
+/* imports no inicio  */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Playwrite+AR:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+Khitan+Small+Script&family=Playwrite+AR:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+Khitan+Small+Script&family=Playwrite+AR:wght@100..400&family=Zain:wght@200;300;400;700;800;900&display=swap');
+body {
+    background-color: antiquewhite;
+}
+
+.gif {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.img_fundo {
+    width: 300px;
+    height: 300px;
+    
+}
+
+
+/* classe para configuração de fontes */
+.fontes {
+    color: rgb(199, 35, 35);
+    font-size: 20px;
+    font-family: "Playwrite AR", cursive;
+}
+.new_font{
+    font-family: "Noto Serif Khitan Small Script", serif;
+    color: black;
+    font-size: 10px;
+}
+.new{
+    font-family: "Zain", sans-serif;
+    color: rgb(109, 72, 72);
+    font-size: 30px;
+}
